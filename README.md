@@ -1,4 +1,4 @@
-# Welcome to Sahay
+
 # Welcome to Sahay
 
 Sahay leverages the transformative potential of Artificial Intelligence to redefine skill development and bridge the gap between education and employment. This platform empowers the youth with tools to thrive in the fast-evolving job market by providing personalized learning paths, interactive features, and career advancement solutions.
